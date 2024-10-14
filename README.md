@@ -1,6 +1,6 @@
-[![apt-cacher-ng](https://github.com/sameersbn/docker-apt-cacher-ng/actions/workflows/build.yml/badge.svg)](https://github.com/sameersbn/docker-apt-cacher-ng/actions/workflows/build.yml)
+Forked from : [https://github.com/sameersbn/docker-apt-cacher-ng](https://github.com/sameersbn/docker-apt-cacher-ng)
 
-# sameersbn/apt-cacher-ng:3.7.4-20220421
+# devThLan/apt-cacher-ng
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
