@@ -1,6 +1,6 @@
 FROM ubuntu:24:04
 
-LABEL maintainer="sameer@damagehead.com"
+LABEL maintainer="cukillswitch@gmail.com"
 
 ENV APT_CACHER_NG_VERSION=3.7.5 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
