@@ -1,8 +1,8 @@
-FROM ubuntu:jammy-20230816
+FROM ubuntu:24:04
 
 LABEL maintainer="sameer@damagehead.com"
 
-ENV APT_CACHER_NG_VERSION=3.7.4 \
+ENV APT_CACHER_NG_VERSION=3.7.5 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
     APT_CACHER_NG_LOG_DIR=/var/log/apt-cacher-ng \
     APT_CACHER_NG_USER=apt-cacher-ng
