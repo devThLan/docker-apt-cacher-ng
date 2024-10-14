@@ -3,7 +3,7 @@ version: '3'
 services:
   apt-cacher-ng:
     restart: always
-    image: sameersbn/apt-cacher-ng:3.7.5-24:04
+    image: sameersbn/apt-cacher-ng:3.7.5-24.04
     init: true
     ports:
     - "3142:3142"
