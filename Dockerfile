@@ -2,7 +2,7 @@ FROM ubuntu:24.04
 
 LABEL maintainer="cukillswitch@gmail.com"
 
-ENV APT_CACHER_NG_VERSION=3.7.5 \
+ENV APT_CACHER_NG_VERSION=3.7.4 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
     APT_CACHER_NG_LOG_DIR=/var/log/apt-cacher-ng \
     APT_CACHER_NG_USER=apt-cacher-ng
